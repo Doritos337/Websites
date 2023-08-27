@@ -1,0 +1,20 @@
+@font-face {
+    font-family: metropolis;
+    font-weight: 700;
+    font-style: normal;
+    src: local("metropolis"),
+         url("../fonts/metropolis.medium.woff2") format('woff2'),
+         url("../fonts/metropolis.medium.woff") format('woff'),
+         url("../fonts/metropolis.medium.eot") format('eot');
+    font-display: swap;
+  }
+  @font-face {
+    font-family: metropolis;
+    font-weight: 500;
+    font-style: normal;
+    src: local("metropolis"),
+         url("../fonts/metropolis.regular.woff2") format('woff2'),
+         url("../fonts/metropolis.regular.woff") format('woff'),
+         url("../fonts/metropolis.regular.eot") format('eot');
+    font-display: swap;
+  }
